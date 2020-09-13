@@ -37,7 +37,7 @@ async function findIpUser () {
 ## Experience
 - HTML & CSS
    - [Stimulus](https://denisprokopchik.github.io/Stimulus/)
-   - [Show](https://denisprokopchik.github.io/Snow/)
+   - [Snow](https://denisprokopchik.github.io/Snow/)
 - JavaScript
    - [Claendar](https://denisprokopchik.github.io/CalendarJS/)
 
