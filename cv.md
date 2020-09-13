@@ -39,7 +39,7 @@ async function findIpUser () {
    - [Stimulus](https://denisprokopchik.github.io/Stimulus/)
    - [Snow](https://denisprokopchik.github.io/Snow/)
 - JavaScript
-   - [Claendar](https://denisprokopchik.github.io/CalendarJS/)
+   - [Calendar](https://denisprokopchik.github.io/CalendarJS/)
 
 ## Education
 - ITStep courses
