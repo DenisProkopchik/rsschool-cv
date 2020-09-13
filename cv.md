@@ -1,7 +1,7 @@
 # DZIANIS PRAKOPCHYK
 ## Contact Info
 Contact's type | Data
---- | ---
+---: | ---
 Phone (MTS, Telegram, Viber, WhatsApp):| +375447875545
 Discord: | DenisProkopchik
 Skype: | Denis_Prokopchick
@@ -34,3 +34,17 @@ async function findIpUser () {
 	}
 }
 ```
+## Experience
+- HTML & CSS
+   - [Stimulus](https://denisprokopchik.github.io/Stimulus/)
+   - [Show](https://denisprokopchik.github.io/Snow/)
+- JavaScript
+   - [Claendar](https://denisprokopchik.github.io/CalendarJS/)
+
+## Education
+- ITStep courses
+- English courses by Streamline and ISpeak
+
+## English
+A2
+I studied English on ISpeak 6 months and Streamline for about 3 months. Now I work out on my own (an hour a day).
